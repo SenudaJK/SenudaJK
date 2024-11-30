@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile! 
 
-<!--
-**SenudaJK/SenudaJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Senuda, a passionate developer and technology enthusiast. Here’s a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Web based Employee Managements System**.
+- 🌱 I’m currently learning **flutter, react-native, firebase, kubernets**.
+- 👯 I’m looking to collaborate on **cybersecurity with AI**.
+- 🤔 I’m looking for help with **[Any specific challenges, e.g., "optimizing database triggers for inventory management"]**.
+- 💬 Ask me about **Java development, web development, and passionate in cybersecurity**.
+- 📫 How to reach me: **jayathi-im21014@stu.kln.ac.lk**.
+- 😄 Pronouns: **he/him**.
+- ⚡ Fun fact: **very passionate about IT**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Let's build something amazing together!
+Feel free to explore my repositories and reach out if you want to collaborate. 😊
+
